@@ -1,7 +1,7 @@
 $(function() {
   $.ajax({
     type: 'GET',
-    url: "https://jsonp.nodejitsu.com/?callback=?&url=https://new.livestream.com/api/accounts/7187039/events/3426795/viewing_info",
+    url: "https://jsonp.nodejitsu.com/?callback=?&url=https://new.livestream.com/api/accounts/7187039/events/4134883/viewing_info",
     dataType: 'jsonp',
     success: function (jsonp){
       // parse the JSON data on success
