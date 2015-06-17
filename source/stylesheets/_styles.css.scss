@@ -1,0 +1,33 @@
+#wrapper{
+  background-image: url(https://s3.amazonaws.com/myfangate.com/teenbeach2/background-image.jpg);
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 100%;
+  .container{
+    max-width: 810px;
+  }
+}
+.full-w{
+  width: 100%;
+}
+.header{
+  margin-top: 5%;
+}
+.hidden{
+  display: none;
+}
+.shown{
+  display: visible;
+}
+.livestream{
+  margin-top: -20%;
+}
+.footer{
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
